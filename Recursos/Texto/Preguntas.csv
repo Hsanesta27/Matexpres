@@ -1,0 +1,31 @@
+TextoPregunta,FuentePregunta,Respuesta1,FuenteRespuesta1,ValorRespuesta1,Respuesta2,FuenteRespuesta2,ValorRespuesta2,Respuesta3,FuenteRespuesta3,ValorRespuesta3,Respuesta4,FuenteRespuesta4,ValorRespuesta4
+(3x+5)Y =,0,9xY+25+30x,0,true,9xY+25,0,False,6xY+25+30x,0,False,8xY,0,False
+(2x+3)Y =,0,4xY+9+12x,0,true,6xY,0,False,36xY,0,False,12xY+4x+9,0,False
+(3xY+12)Y =,0,9xY+72x+144,0,False,72xy+144,0,true,81xY+144,0,False,6xY+144,0,False
+(x-1)Y =,0,xY+1,0,False,xY+2x+1,0,False,xY-2x+1,0,true,xY-1,0,False
+(x+7)(x-7) =,0,xY+49,0,False,xY-14x+49,0,False,xY+14x+49,0,False,xY-49,0,true
+Pasa este intervalo a corchetes: {xeR:7<x<14},0,]7_14[,0,False,[7_14],0,true,]14_7[,0,False,[7_14[,0,False
+Pasa este intervalo a corchetes: {xeR:-3<x<6},0,]-3_6[,0,False,[-3_6],0,true,]-3_6[,0,False,[-3_6[,0,False
+Pasa este intervalo a notaciUn de conjuntos: ]7_8],0,{xeR:7<x<8},0,False,{xeR:7<xS8},0,False,{xeR:7Sx<8},0,true,{xeR:7<8},0,False
+Pasa este intervalo a notaciUn de conjuntos: [6_16[,0,{xeR:6<x<16},0,False,{xeR:6<xS16},0,true,{xeR:6Sx<16},0,False,{xeR:6<16},0,False
+A quW conjunto pertenece el nVmero 5.16,0,NVmeros irracionales,0,False,NVmeros Enteros,0,false,NVmeros Naturales,0,false,NVmeros Reales,0,true
+A quW conjunto pertenece el nVmero -2.5,0,NVmeros irracionales,0,False,NVmeros Enteros,0,false,NVmeros Naturales,0,False,NVmeros Reales,0,true
+A quW conjunto pertenece el nVmero 19.32,0,NVmeros irracionales,0,False,NVmeros Enteros,0,False,NVmeros Naturales,0,False,NVmeros Reales,0,true
+A quW conjunto pertenece Z2,1,NVmeros irracionales,0,true,NVmeros Enteros,0,False,NVmeros Naturales,0,False,NVmeros Racionales,0,false
+Los nVmeros naturales comprenden...,0,Muchos nVmeros,0,False,Los nVmeros del 0 al 100,0,False,Los nVmeros del 1 al infinito,0,False,Los nVmeros del 0 al infinito,0,true
+Elige la propiedad incorrecta,0,a^n*a^m = a^n+m,0,False,a^n:a^m =a^n-m,0,False,(a^n)^m = a^nm,0,False,a^n - a^m = a^n:m,0,true
+Extrae Z12,1,3Z4,1,False,4Z3,1,False,2Z3,1,true,3Z2,1,False
+Extrae J54,1,2J27,1,False,9J2,1,False,9,1,False,3J2,1,true
+Extrae J160,1,2J20,1,true,20J2,1,False,8J20,1,False,2J8,1,False
+Introduce 7Z2,1,Z14,1,False,Z49,1,False,Z196,1,False,Z98,1,true
+Introduce 6Z2,1,Z72,1,true,Z12,1,False,Z36,1,False,Z24,1,False
+Introduce 3J4,1,J108,1,true,108,1,False,J12,1,False,J144,1,False
+Resuelve 12x+25=15x-32/3x,0,1 y -1,0,False,4 y -6.32,0,False,0.4068,0,False,0.4068 y 8.74014,0,true
+Resuelve (3xY+2xy+3x+5)+(-3xX-5xY+4x-4),0,-3xX-2xY+2xy+7x+1,0,true,-3xX-2xY+2xy+7x,0,False,3xX-2xY+2xy+7x+1,0,False,-3xX-2xY+7x+1,0,False
+Resuelve (2xY-3x-4)-(-2xY-3xy-4),0,4xY+3x+3xy,0,False,3xy-3x,0,False,4xY-3x+3xy,0,true,4xY-3x+3xy-8,0,False
+Resuelve (2xY-4x+3)(2x-4),0,4xX+22x-12,0,False,4xX-16xY+22x-12,0,true,4xY+22x-12,0,False,4xX-16xY+22x+12,0,False
+QuW mWtodo usarTas para resolver esta divisiUn: 2xY-3x+4:x+2,0,Ruffini,0,true,DivisiUn con la caja,0,False,Calculadora corriente,0,False,Photomath,0,False
+QuW mWtodo usarTas para resolver esta divisiUn: 3xY+6x-3:4xY+4x+3,0,Ruffini,0,False,DivisiUn con la caja,0,true,Calculadora corriente,0,False,Photomath,0,False
+Cu!les podrTan ser las raTces de este polinomio 3xX+2xY+x+4,0,4,0,False,4 y -4,0,False,4 2 y 1,0,False,4 -4 2 -2 1 y -1,0,true
+Es 3 raTz de este polinomio? 4xY+3x-3,0,$T,0,False,No,0,true,Puede,0,False,Ni idea,0,False
+Extrae factor comVn: 4x^4+4xX-3xY-4x-1,0,(x+1)(4xY+1)Y,0,False,(x+1)(x-1)4xY,0,False,No se puede,0,False,(x+1)(x-1)(2x+1)Y,0,true
